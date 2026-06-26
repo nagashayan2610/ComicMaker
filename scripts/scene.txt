@@ -1,0 +1,32 @@
+"""
+1. SCENE FORMAT
+INT. or EXT. must start scene lines
+
+Example:
+INT. ROOFTOP - NIGHT
+
+2. CHARACTER FORMAT
+Must be uppercase only
+
+after character is dialogue
+
+Example:
+I will save.
+
+3. DIALOGUE FORMAT
+Next line
+
+4. COMMENT BLOCK (IGNORED BY SYSTEM)
+Anything inside triple quotes is ignored:
+
+5. DO NOT USE:
+- colon after character name
+- free paragraph writing
+- mixed formats
+
+6. RECOMMENDED STYLE:
+Keep each dialogue short (1–2 lines)
+Each scene = multiple character exchangesxample:
+name in uppercase
+""" 
+
